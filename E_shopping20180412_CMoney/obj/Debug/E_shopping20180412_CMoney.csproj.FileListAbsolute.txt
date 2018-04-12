@@ -1,0 +1,7 @@
+c:\users\asus\source\repos\E_shopping20180412_CMoney\E_shopping20180412_CMoney\bin\Debug\E_shopping20180412_CMoney.exe.config
+c:\users\asus\source\repos\E_shopping20180412_CMoney\E_shopping20180412_CMoney\bin\Debug\E_shopping20180412_CMoney.exe
+c:\users\asus\source\repos\E_shopping20180412_CMoney\E_shopping20180412_CMoney\bin\Debug\E_shopping20180412_CMoney.pdb
+c:\users\asus\source\repos\E_shopping20180412_CMoney\E_shopping20180412_CMoney\obj\Debug\E_shopping20180412_CMoney.csprojResolveAssemblyReference.cache
+c:\users\asus\source\repos\E_shopping20180412_CMoney\E_shopping20180412_CMoney\obj\Debug\E_shopping20180412_CMoney.csproj.CoreCompileInputs.cache
+c:\users\asus\source\repos\E_shopping20180412_CMoney\E_shopping20180412_CMoney\obj\Debug\E_shopping20180412_CMoney.exe
+c:\users\asus\source\repos\E_shopping20180412_CMoney\E_shopping20180412_CMoney\obj\Debug\E_shopping20180412_CMoney.pdb
